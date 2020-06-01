@@ -1,5 +1,5 @@
 # Bayesian Modeling Banks Customer Service Twitter Response Time
-Using Student’s t-distribution, Poisson distribution, Negative Binomial distribution, Hierarchical modeling and Regression
+**Using Student’s t-distribution, Poisson distribution, Negative Binomial distribution, Hierarchical modeling and Regression**
 
 Twitter is the first place people go for customer experience when interacting with service providers such as banks and telcos in Kenya. From a past study, Twitter found that customers were willing to pay more for a service provider that responded to their tweet in under six minutes.
 
